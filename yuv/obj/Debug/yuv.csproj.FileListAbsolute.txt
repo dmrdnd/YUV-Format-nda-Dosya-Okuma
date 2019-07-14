@@ -1,0 +1,10 @@
+D:\Yazlab\yazlab3\yazlab1.3\yuv\bin\Debug\yuv.exe.config
+D:\Yazlab\yazlab3\yazlab1.3\yuv\bin\Debug\yuv.exe
+D:\Yazlab\yazlab3\yazlab1.3\yuv\bin\Debug\yuv.pdb
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.csprojAssemblyReference.cache
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.Form1.resources
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.Properties.Resources.resources
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.csproj.GenerateResource.cache
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.csproj.CoreCompileInputs.cache
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.exe
+D:\Yazlab\yazlab3\yazlab1.3\yuv\obj\Debug\yuv.pdb
